@@ -3,3 +3,4 @@
 __pycache__
 *.pyc
 og_settings.py
+local_settings.py
